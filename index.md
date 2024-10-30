@@ -12,6 +12,6 @@ This is some regular cody text
 var myVar = "Hello, world!";
 ```
 
--[x] Turn on Github Pages
--[ ]
--[ ]
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
